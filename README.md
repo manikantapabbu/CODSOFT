@@ -37,9 +37,6 @@ Command line access or an IDE (such as Eclipse, IntelliJ, or VS Code with Java e
 Running the Programs
 Clone the repository:
 
-bash
-git clone https://github.com/your-username/your-repo-name.git
-Navigate to the project folder:
 
 bash
 cd your-repo-name
